@@ -3,7 +3,7 @@
 
 ### Graduate QA Tester | Manual & Functional Testing
 
-I'm an aspiring QA engineer who enjoys finding problems before users do. I design test cases, report defects clearly, and document my work the way a real QA team would. I'm looking for a **junior QA or internship role** where I can add value and keep growing.
+I'm an aspiring QA Tester who enjoys finding problems before users do. I design test cases, report defects clearly, and document my work the way a real QA team would. I'm looking for a **junior QA or internship role** where I can add value and keep growing.
 
 ---
 
