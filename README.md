@@ -60,4 +60,4 @@ A Selenium WebDriver and pytest suite of 14 automated tests covering Login, Prod
 
 - LinkedIn: [linkedin.com/in/samukelo-cele](https://www.linkedin.com/in/samukelo-cele)
 - Email: [samkeloacele@gmail.com](mailto:samkeloacele@gmail.com)
-- Location: Durban, South Africa (open to relocation: **confirm before keeping this line**)
+- Location: Durban, South Africa (open to relocation)
