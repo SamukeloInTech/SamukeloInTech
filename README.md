@@ -10,15 +10,16 @@ I'm an ICT graduate (Advanced Diploma in ICT, Durban University of Technology) w
 
 - Manual and functional testing (positive, negative, regression and smoke)
 - Test planning and test case design (Equivalence Partitioning, Boundary Value Analysis)
-- Test automation with Selenium (Python), pytest and the Page Object Model
 - Defect reporting with steps to reproduce, severity, priority and evidence
 - SQL data validation: JOINs, GROUP BY and constraint testing (UNIQUE, CHECK, FOREIGN KEY)
-- Web API and security testing (exposure): negative inputs, rate limiting
+- Web API testing with Postman: status code, response time and response body assertions
+- Security basics: negative inputs and rate limiting
+- Test automation with Selenium (Python), pytest and the Page Object Model
 - Requirements traceability (RTM) and test summary reporting
 
 ## 🛠️ Tools
 
-**Jira** · **SQL / MySQL Workbench** · **Selenium (Python)** · **pytest** · **Git & GitHub** · **Markdown** · **Visual Studio Code**
+**Jira** · **Postman** · **SQL / MySQL Workbench** · **Selenium (Python)** · **pytest** · **Git & GitHub** · **Markdown** · **Visual Studio Code**
 
 ---
 
@@ -33,16 +34,22 @@ Risk-based functional, API and security testing of a budgeting and price-compari
 
 ### 🏦 [QA Banking Portfolio (ParaBank)](https://github.com/SamukeloInTech/QA-Banking-Portfolio)
 A complete manual testing cycle on the ParaBank demo banking app.
-- 8 test cases, 3 bug reports (2 Critical, 1 Major)
+- 8 test cases and 3 bug reports (2 Critical, 1 Major)
 - Coverage mind map and requirements traceability matrix
 
-### 🗄️ [SQL Manual QA Testing: E-Commerce Database](REPLACE_WITH_YOUR_SQL_REPO_LINK)
+### 🚀 [API Testing: Restful Booker (Postman)](REPLACE_WITH_RESTFUL_BOOKER_REPO_LINK)
+A Postman test suite for the Restful Booker hotel-booking practice API.
+- Requests: `POST /booking` (create) and `GET /booking/{id}` (retrieve)
+- 8 assertions on status code, response time (under 2000 ms) and JSON body keys and values
+- Exported collection and Collection Runner screenshot included as evidence
+
+### 🗄️ [SQL Manual QA Testing: E-Commerce Database](REPLACE_WITH_SQL_REPO_LINK)
 Manual database testing on a simulated e-commerce schema in MySQL.
 - JOIN and GROUP BY queries to verify application data against the database
 - Tests for UNIQUE, CHECK and FOREIGN KEY constraints
 - Evidence-based bug reports with SQL proof, plus cleanup scripts for repeatable runs
 
-### 🤖 [Test Automation: Selenium + pytest (SauceDemo)](REPLACE_WITH_YOUR_AUTOMATION_REPO_LINK)
+### 🤖 [Test Automation: Selenium + pytest (SauceDemo)](REPLACE_WITH_AUTOMATION_REPO_LINK)
 A Selenium WebDriver and pytest suite of 14 automated tests covering Login, Products, Cart and Checkout.
 - Page Object Model, explicit waits, fixtures, smoke and regression markers, and parametrization
 - HTML test reports and automatic failure screenshots, with a setup guide
@@ -51,7 +58,7 @@ A Selenium WebDriver and pytest suite of 14 automated tests covering Login, Prod
 
 ## 🌱 Currently Learning
 
-- API testing with Postman (building a collection for a public API)
+-  API Automation testing: negative and boundary requests, authentication tokens and chained requests
 - ISTQB Certified Tester Foundation Level (CTFL)
 
 ---
@@ -60,4 +67,4 @@ A Selenium WebDriver and pytest suite of 14 automated tests covering Login, Prod
 
 - LinkedIn: [linkedin.com/in/samukelo-cele](https://www.linkedin.com/in/samukelo-cele)
 - Email: [samkeloacele@gmail.com](mailto:samkeloacele@gmail.com)
-- Location: Durban, South Africa (open to relocation)
+- Location: Durban, South Africa
